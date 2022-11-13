@@ -1,0 +1,54 @@
+/* global start  */
+h4 {
+  font-size: 25px;
+  color: #e3106d;
+}
+p {
+  font-size: 20px !important;
+  line-height: 35px;
+  color: #4c4c4c;
+}
+/* global end  */
+
+.bg-light {
+  background-color: #fff !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #111;
+}
+.first-section {
+  background-color: #fff6fa;
+}
+
+/* .bg-img {
+  width: 411px;
+  height: 430px;
+  background-image: url(../image/numanic.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+.padding-vertically {
+  padding: 100px 5px;
+}
+
+.image-top {
+  margin-top: -100px;
+}
+
+/* #carouselExampleControls {
+  color: #ea0b71;
+} */
+
+button {
+  border: 0;
+  background-color: transparent;
+  opacity: 0;
+  color: #ea0b71 !important;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  background-color: transparent;
+  /* color: #ea0b71 !important; */
+}
