@@ -10,7 +10,7 @@ p {
 }
 /* global end  */
 
-.bg-light {
+.nav-bg-light {
   background-color: #fff !important;
 }
 .navbar-light .navbar-nav .nav-link {
@@ -44,11 +44,18 @@ button {
   border: 0;
   background-color: transparent;
   opacity: 0;
-  color: #ea0b71 !important;
 }
 
-.carousel-control-next,
-.carousel-control-prev {
-  background-color: transparent;
-  /* color: #ea0b71 !important; */
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: #ea0b71;
+}
+
+/* #carouselExampleControls {
+  height: 290px;
+  background-color: rebeccapurple;
+} */
+
+.carousel-inner {
+  border-radius: 5px;
 }
